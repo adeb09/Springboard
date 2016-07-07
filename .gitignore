@@ -35,3 +35,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Specific files #
+####################
+.ipynb_checkpoints
+sliderule_dsi_json_exercise-checkpoint.ipynb
+sliderule_dsi_xml_exercise-checkpoint.ipynb
