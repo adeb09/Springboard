@@ -8,27 +8,27 @@
 
 **Regularized Logistic Regression Model (2014-2016 Season Data).ipynb**
 
-* Jupyter notebook used to build naive baseline model on NFL Savant data set
+* Jupyter notebook used to build naive baseline model on *NFL Savant* data set
 
 **Regularized Logistic Regression Model  (Armchair Analysis 2014-2016).ipynb**
 
-* Jupyter notebook used to build dependency model on Armchair Analysis data set
+* Jupyter notebook used to build dependency model on *Armchair Analysis* data set
 
 **Team by Team Logistic Regression Model (2014-2016 data).ipynb**
 
-* Jupyter notebook used to build the team based models utilizing the naive independence assumption on NFL Savant data set
+* Jupyter notebook used to build the team based models utilizing the naive independence assumption on *NFL Savant* data set
 
 **Team by Team Logistic Regression Model  (Armchair Analysis 2014-2016).ipynb**
 
-* Jupyter notebook used build team based models utilizing the dependency assumption on the Armchair Analysis data set
+* Jupyter notebook used build team based models utilizing the dependency assumption on the *Armchair Analysis* data set
 
 **Analysis of Team Based Logistic Regression Model (2014-2016).ipynb**
 
-* Jupyter notebook used to analyze the model metrics of the team based models' (built using naive assumption of independence between plays on NFL Savant data set)
+* Jupyter notebook used to analyze the model metrics of the team based models' (built using naive assumption of independence between plays on *NFL Savant* data set)
 
 **Analysis of Team Based Logistic Regression Model Armchair Analysis (2014-2016 data).ipynb**
 
-* Jupyter notebook used to analyze the model metrics of the team based models' (built using the dependency assumption between plays on Armchair Analysis data set)
+* Jupyter notebook used to analyze the model metrics of the team based models' (built using the dependency assumption between plays on *Armchair Analysis* data set)
 
 **Model Coefficients.ipynb**
 
