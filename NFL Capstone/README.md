@@ -4,7 +4,7 @@
 
 
 ----
-##Jupyter Notebooks
+## Jupyter Notebooks
 
 **Regularized Logistic Regression Model (2014-2016 Season Data).ipynb**
 
